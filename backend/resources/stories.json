@@ -1,0 +1,30 @@
+ {
+  "milestones": [
+      {
+          "milestone": "Learning UX Design Fundamentals",
+          "vision": "I am gonna learn every essential knowledge about user experience design. I feel empowered through my grasp of the fundamentals and readiness to advance.",
+          "imagePrompt": "A person standing amidst a library of UX design books, absorbing information from the open volumes around them."
+      },
+      {
+          "milestone": "Building Practical Experience",
+          "vision": "I am skillfully crafting user-friendly digital interfaces with precision and creativity. I see clear improvement in each design I create.",
+          "imagePrompt": "A designer sitting at a desk with multiple screens, each showing different steps of user interface creation, their hands in motion, shaping the design."
+      },
+      {
+          "milestone": "Creating a Striking Portfolio",
+          "vision": "I have compiled a sleek, impressive portfolio showcasing my best work. I feel proud to showcase it to others.",
+          "imagePrompt": "A digital portfolio bursting to life from the screen, each project a shining star in a constellation of design works."
+      },
+      {
+          "milestone": "Obtaining a UX Design Position in Sydney Startup",
+          "vision": "I am an integral part of a dynamic Sydney startup, innovating UX design to deliver excellent product experiences.",
+          "imagePrompt": "A person standing in front of the Sydney Opera House, laptop under their arm, smiling to themselves, a start-up's logo on the laptop's back."
+      }
+  ],
+  "guidances": [
+      "Enroll in a UX design course either online or in a local college. Read books and articles related to UX design, follow UX design influencers, and participate in UX design discussions and forums.",
+      "Take on small design projects—either real or hypothetical. Look for internship opportunities, or even offer your services for free to gain experience. Practice daily to hone your skills and try to get feedback from experienced professionals.",
+      "Create a digital portfolio to showcase your work. Review and refine your designs and only incorporate the ones that best reflect your abilities. Keep updating your portfolio with newer, better work.",
+      "Start applying for UX design position in startups in Sydney. Network with professionals in your targeted companies. Prepare for interviews and showcase your portfolio professionally. Be persistent in your job hunt."
+  ]
+}
